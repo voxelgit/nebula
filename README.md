@@ -2,8 +2,6 @@
 
 # YinYang
 
-Network abuse is cool.
-
 
 Games, chat, and a privacy-respecting search engine (soon.)
 
