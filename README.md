@@ -6,7 +6,7 @@
 Games, chat, and a privacy-respecting search engine (soon.)
 
 
-This isn't hosted on a single homepage for anti-blocking simplicity so the path for each file would be **glorbatron.github.io/YinYang/-.html**
+This isn't hosted on a single homepage for anti-blocking simplicity so the path for each file would be **voxel-im.github.io/YinYang/-.html**
 
 
 If your school ever restricts this just fork and deploy to GitHub Pages lmao.
