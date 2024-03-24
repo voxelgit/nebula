@@ -3,7 +3,7 @@
 # YinYang
 
 
-Games, chat, and a privacy-respecting search engine (soon.)
+Games, [chat](https://element.hot-chilli.im/#/register), and a lot more to come. [THIS SITE IS IN BETA]
 
 
 This isn't hosted on a single homepage for anti-blocking simplicity so the path for each file would be **voxel-im.github.io/YinYang/-.html**
