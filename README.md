@@ -5,10 +5,6 @@
 
 Games, [chat](https://element.hot-chilli.im/#/register), and a lot more to come. [THIS SITE IS IN BETA]
 
-
-This isn't hosted on a single homepage for anti-blocking simplicity so the path for each file would be **voxel-im.github.io/YinYang/-.html**
-
-
 If your school ever restricts this just fork and deploy to GitHub Pages or use the following options:
 
 <a href="https://app.netlify.com/start/deploy?repository=https://github.com/voxel-im/YinYang"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
@@ -16,3 +12,10 @@ If your school ever restricts this just fork and deploy to GitHub Pages or use t
 <a href="https://heroku.com/deploy?template=https://github.com/voxel-im/YinYang">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
+
+..Or just use the [alt link](https://study-forums.netlify.app) if you don't want to selfhost.
+
+# Page Access
+
+See those files up there? Yeah, take them and slap them at the end of https://voxel-im.github.io/YinYang/ and you're good to go.
+Works the same if you selfhost and with https://study-forums.netlify.app
