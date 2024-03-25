@@ -11,10 +11,10 @@ If your school ever restricts this just fork and deploy to GitHub Pages or use t
 <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvoxel-im%2FYinYang"><img src="https://vercel.com/button" alt="Deploy with Vercel"/></a>
 <a href="https://heroku.com/deploy?template=https://github.com/voxel-im/YinYang">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
 <a href="https://deploy.cyclic.sh/voxel-im/YinYang/">
     <img src="https://deploy.cyclic.sh/button.svg" />
-</a>
+<a href="https://render.com/deploy?repo=https://github.com/voxel-im/YinYang/">
+
 
 ..Or just use the [alt link](https://study-forums.netlify.app) if you don't want to selfhost.
 
