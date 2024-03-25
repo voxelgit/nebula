@@ -12,6 +12,9 @@ If your school ever restricts this just fork and deploy to GitHub Pages or use t
 <a href="https://heroku.com/deploy?template=https://github.com/voxel-im/YinYang">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
+<a href="https://deploy.cyclic.sh/voxel-im/YinYang/">
+    <img src="https://deploy.cyclic.sh/button.svg" />
+</a>
 
 ..Or just use the [alt link](https://study-forums.netlify.app) if you don't want to selfhost.
 
