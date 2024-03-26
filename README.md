@@ -3,7 +3,7 @@
 # YinYang
 
 
-Games, [chat](https://voxel-im.github.io/YinYang/discord.html), and a lot more to come. [THIS SITE IS IN BETA]
+Games, [chat](https://voxel-im.github.io/YinYang/discord.html), apps, and a lot more to come. [THIS SITE IS IN BETA]
 
 If your school ever restricts this just fork and deploy to GitHub Pages or use the following options:
 
