@@ -1,0 +1,17 @@
+name: request a game
+description: request to add a game to the site
+title: 'request a game'
+labels: ['NONE']
+
+body:
+  - type: input
+    attributes:
+      label: link (must be fullscreen)
+      placeholder: 'https://static.myreallycool.site/embedded-page'
+      required: true
+      
+  - type: input
+    attributes:
+      label: game name
+      placeholder: 'Bloons TD'
+      required: true
