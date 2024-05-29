@@ -13,10 +13,11 @@ if your school ever restricts this just fork and deploy to GitHub Pages or use t
 ..or just use the alt links if you don't want to selfhost.
 
 study-forums.netlify.app
+
 catburgeronline.github.io/s
 
 # usage
 
-see those files up there? Slap them at the end of your link and you're good to go.
+see those files up there? slap them at the end of your link and you're good to go.
 
 example: yinyang.site/YinYang/adanceoffireandice.html
