@@ -1,0 +1,21 @@
+name: edit game
+description: request to edit/fix game
+title: 'Edit: '
+labels: ['edit stream']
+
+body:
+  - type: input
+    attributes:
+      label: new game URL
+      description: new link to the game
+      placeholder: 'https://23apples.gg/run3'
+      validations:
+      required: true
+      
+  - type: input
+    attributes:
+      label: game name
+      description: "name of the game"
+      placeholder: 'Run 3'
+      validations:
+      required: true
