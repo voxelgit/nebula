@@ -20,4 +20,4 @@ pacific-ocean0.github.io/s
 
 see those files up there? slap them at the end of your link and you're good to go.
 
-example: yinyang.site/YinYang/adanceoffireandice.html
+example: example.site/fork-name/file.html
