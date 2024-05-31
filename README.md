@@ -14,6 +14,8 @@ if your school ever restricts this just fork and deploy to GitHub Pages or use t
 
 study-forums.netlify.app
 
+salchipapas.vercel.app
+
 pacific-ocean0.github.io/s
 
 # usage
