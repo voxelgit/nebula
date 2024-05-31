@@ -14,7 +14,7 @@ if your school ever restricts this just fork and deploy to GitHub Pages or use t
 
 study-forums.netlify.app
 
-catburgeronline.github.io/s
+pacific-ocean0.github.io/s
 
 # usage
 
