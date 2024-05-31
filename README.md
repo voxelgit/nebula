@@ -2,7 +2,7 @@
 # serenity
 
 
-not your ordinary unblocker site. games, [chat](https://voxel.is-a.dev/YinYang/chat.html), a [search proxy](https://voxel.is-a.dev/YinYang/pr0xy.html) and apps.
+not your ordinary unblocker site. games, [chat](https://voxel.is-a.dev/serenity/chat.html), a [proxy](https://voxel.is-a.dev/serenity/pr0xy.md) and apps.
 
 if your school ever restricts this just fork and deploy to GitHub Pages or use the following options:
 
