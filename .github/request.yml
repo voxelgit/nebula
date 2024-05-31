@@ -1,0 +1,19 @@
+name: add a game
+description: request to add a new game to the site
+title: 'Add: '
+labels: ['NONE']
+
+body:
+  - type: input
+    attributes:
+      label: game name
+      placeholder: 'Run 3'
+    validations:
+      required: true
+  
+      
+  - type: input
+    attributes:
+      label: game URL
+      placeholder: 'https://mycoolsite.lol/ubg4/run3'
+    validations:
