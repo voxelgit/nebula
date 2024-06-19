@@ -15,8 +15,6 @@ study-forums.netlify.app
 
 salchipapas.vercel.app
 
-pacific-ocean0.github.io/s
-
 # usage
 
 see those files up there? slap them at the end of your link and you're good to go.
