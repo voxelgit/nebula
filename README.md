@@ -19,4 +19,6 @@ salchipapas.vercel.app
 
 see those files up there? slap them at the end of your link and you're good to go.
 
-example: example.site/fork-name/file.html
+example: instance.link/reponame/file.html
+
+(go to settings then pages and deploy so it works)
