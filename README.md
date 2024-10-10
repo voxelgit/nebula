@@ -1,7 +1,7 @@
 ![images (11)](https://github.com/Flake6/nebula/assets/164063937/7c83b2fe-fd39-423e-9b16-ce7cd435e0fc)
 # nebula
 
-not your ordinary unblocker site. games, [chat](https://voxel.is-a.dev/nebula/chat.html), a [proxy](https://voxel.is-a.dev/nebula/pr0xy.md) and apps.
+not your ordinary unblocker site. games, [chat](https://voxel.is-a.dev/nebula/chat.html), a [proxy](https://voxel.is-a.dev/nebula/pr0xy.html) and apps.
 
 if your school ever restricts this just fork and deploy to GitHub Pages or use the following options:
 
